@@ -1,0 +1,24 @@
+
+body{
+    background-color: gray;
+  
+}
+div{
+    padding-left: 10px;
+    /* background-color: red; */
+    /* margin-bottom:80px; */
+    border: 1px solid aqua;
+}
+button{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    margin:  10px;
+}
+.Link{
+    text-decoration: none;
+    padding: 5px;
+    font-size: larger;
+    color: aliceblue;
+
+}
